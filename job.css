@@ -1,0 +1,20 @@
+legend {
+    font-size: 20px; font-family: "Roboto Condensed"; font-weight: bold; text-decoration-line: underline;  
+    text-align: center;
+}
+h2 {
+    font-size: 40px; font-family: "Roboto Condensed"; font-weight: bold; font-style: oblique; text-align: center;
+}
+fieldset {
+    border: solid 6px #899fb3;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+}
+body {
+    background-image: url('45degreee_fabric.png');
+}
